@@ -10,4 +10,5 @@ JurGesetze ist ein juristischer Schreibassistent, der in allen **gängigen Textv
 
 ## Wie starten?
 
-**macOS**: <u>Hier</u> kannst du dir die aktuellste Version als `.dmg` herunterladen und dem JurGesetze-Setup folgen. 
+**macOS**: <u>Hier</u> kannst du dir die aktuellste Version als `.dmg` herunterladen und dem JurGesetze-Setup folgen.<br>
+**Windows**: 
