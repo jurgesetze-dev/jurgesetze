@@ -1,4 +1,4 @@
-![Logo Banner](logo-banner.png)
+![Logo Banner](banner.png)
 
 # jurgesetze
 Legal Writing Assistant.
