@@ -1,5 +1,6 @@
 <img src="https://github.com/jurgesetze-dev/jurgesetze/blob/main/banner.png" width="550">
 <img src="https://github.com/jurgesetze-dev/jurgesetze/blob/main/sample.gif" width="80%">
+
 JurGesetze ist ein juristischer Schreibassistent, der in allen **gängigen Textverarbeitungsprogrammen Rechtsnormen automatisch erkennt**, **unterstreicht** und mit einem Popup/Overlay versieht. Über das Popup lässt sich der aktuelle Volltext der jeweiligen Norm direkt im Dokument anzeigen – **ganz ohne das Schreibprogramm zu verlassen**.
 
 # Warum JurGesetze?
